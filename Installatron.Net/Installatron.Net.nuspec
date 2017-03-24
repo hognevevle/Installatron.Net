@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Installatron.Net</id>
+        <version>$version$</version>
+        <title>Installatron.Net</title>
+        <authors>Hogne Vevle</authors>
+        <owners>Hogne Vevle</owners>
+        <projectUrl>https://github.com/hognevevle/installatron.net</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Simple client library for the Installatron API.</description>
+        <releaseNotes>1.0 Initial release</releaseNotes>
+        <copyright>Copyright 2017 Hogne Vevle</copyright>
+        <tags>Installatron one-click installer</tags>
+    </metadata>
+</package>

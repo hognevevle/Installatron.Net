@@ -1,0 +1,8 @@
+.DS_Store
+
+bin/
+obj/
+*.suo
+*.user
+*.orig
+Installatron.Net.userprefs
